@@ -1,4 +1,4 @@
-# AI-Powered Blog Application
+# QuickBlog - AI-Powered Blogging App
 
 A modern full-stack blogging platform built using **React.js, Node.js, Express.js, MongoDB, Google Gemini API, and ImageKit**.
 
